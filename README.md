@@ -32,5 +32,7 @@ The task is to implement a simple Unix shell called the “famous little unix sh
 ## Authors
 
 Adam Rogowski
+
 [Mikołaj Blinowski](https://github.com/miko3412)
+
 Jonas (the German guy)
